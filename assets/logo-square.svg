@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+<title id="title">Kanakagawa project logo, electric blue edition</title>
+<desc id="desc">Original vector artwork for Alexandr / Ice. Lettering is outlined for consistent rendering.</desc>
+<defs><linearGradient id="field" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070D20"/><stop offset=".68" stop-color="#081631"/><stop offset="1" stop-color="#073980"/></linearGradient>
+<linearGradient id="electric" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#74DDFF"/><stop offset=".43" stop-color="#2E7CFF"/><stop offset="1" stop-color="#1850F5"/></linearGradient>
+<linearGradient id="porcelain" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".64" stop-color="#E9F5FF"/><stop offset="1" stop-color="#8BCBFF"/></linearGradient>
+<filter id="blue-light" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<rect width="640" height="640" rx="136" fill="url(#field)"/><circle cx="320" cy="320" r="248" fill="none" stroke="#0D61FF" stroke-width="13" opacity=".19" filter="url(#blue-light)"/>
+<circle cx="320" cy="320" r="248" fill="none" stroke="url(#electric)" stroke-width="1.8"/>
+<circle cx="320" cy="320" r="270" fill="none" stroke="#3475CA" stroke-opacity=".22" stroke-width=".8"/>
+<g class="orbit" style="transform-origin:320px 320px"><circle cx="320" cy="320" r="248" fill="none" stroke="#9DEAFF" stroke-width="3" stroke-dasharray="94 1464.1840000000002" stroke-linecap="round"/></g><g transform="translate(176.000 122.000) scale(0.883669) translate(-155 -85)"><path d="M321 85 L430 190 C468 227 487 266 487 307 C487 351 463 390 403 439 L241 281 C226 317 251 347 286 382 L320 415 C359 454 359 498 321 532 L210 425 C173 389 154 351 155 306 C154 263 172 229 207 194 Z M321 194 L292 222 L397 323 C408 280 384 255 357 229 Z" fill-rule="evenodd" fill="url(#porcelain)"/></g>
+</svg>
